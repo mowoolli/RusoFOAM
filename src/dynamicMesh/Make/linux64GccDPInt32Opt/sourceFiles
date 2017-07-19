@@ -1,0 +1,2 @@
+SOURCE = \
+$(solidBodyMotionFunctions)/smoothLinearMotion/smoothLinearMotion.C 

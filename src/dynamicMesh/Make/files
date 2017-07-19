@@ -1,0 +1,4 @@
+solidBodyMotionFunctions = motionSolvers/displacement/solidBody/solidBodyMotionFunctions
+$(solidBodyMotionFunctions)/smoothLinearMotion/smoothLinearMotion.C
+
+LIB = $(FOAM_USER_LIBBIN)/libMarcDynamicMesh
